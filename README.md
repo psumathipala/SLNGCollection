@@ -1,2 +1,2 @@
 # SLNGCollection
-This is a labeled collection of news group categories. Prepared for text classification related research activities. 
+This is a labelled set of newsgroup categories. Prepared for research tasks involving text categorization.
