@@ -13,4 +13,5 @@ Prasanna S. Haddela, Laurence Hirsch, Teresa Brunsdon and Jotham Gaudoin, "Use o
 SLNG_Rands is a collection of random news articles. All articles are from Sinhalese language. It contains 19845 unique article.
 
 Cite the following paper if you used it.
+
 Prasanna S. Haddela, Laurence Hirsch, Teresa Brunsdon and Jotham Gaudoin, "Use of Interpretable Evolved Search Query Classifiers for Sinhala Documents", The proceedings of International Conference on Future Technology Conference (FTC 2020), Published in Springer Advances in Intelligent Systems and Computing (AISC) Series, Vancouver, Canada, November 5-6, 2020.
